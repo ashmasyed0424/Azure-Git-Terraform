@@ -1,0 +1,10 @@
+rg_name         = "devopsrg1"
+location        = "centralindia"
+vnet_cidr_block = ["10.37.0.0/16"]
+subnet1_cidr    = "10.37.1.0/24"
+subnet2_cidr    = "10.37.2.0/24"
+subnet3_cidr    = "10.37.3.0/24"
+subnet4_cidr    = "10.37.4.0/24"
+environment     = "development"
+dns1            = "8.8.8.8"
+dns2            = "8.8.0.0"
